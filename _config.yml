@@ -11,20 +11,21 @@ safe: true
 
 
 # edit here to achieve your personal greatness
-url: http://username.github.io/
-baseurl: /sustain/
-title: Chris Turner
-author: Chris Turner
-description: Personal blog and resume
+url: http://norlab.github.io/
+baseurl: /linda/
+title: Linda Norlander
+author: Bree Norlander
+description: Author of Death of an Editor.
 avatar: profile.png
-email: yourname@email.com
-github: jekyller/sustain # username
-twitter: username
-linkedin: username
-stackoverflow: username   #e.g: users/2735833/proton1h1
+email: lindanorlander@comcast.net
+#github: norlab # username
+twitter: LindaNorlander
+facebook: authorlindanorlander
+#linkedin: username
+#stackoverflow: username   #e.g: users/2735833/proton1h1
 #Comment out if you don't want disqus
-disqus: username
-google_analytics: UA-69391421-1
+#disqus: username
+#google_analytics: UA-69391421-1
 
 
 # needed for travis-ci build
