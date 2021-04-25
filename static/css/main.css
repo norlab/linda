@@ -8,7 +8,6 @@ body {
   /* The html and body elements cannot have any padding or margin. */
   border-top: 3px solid #27A822;
   background-image: url('http://norlab.github.io/linda/assets/images/Death_of_a_Starling_Cover_Cropped.jpg');
-  opacity: 0.3;
   background-repeat: no-repeat;
   background-attachment: fixed;
   background-size: cover;
